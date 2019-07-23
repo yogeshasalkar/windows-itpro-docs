@@ -280,7 +280,16 @@ For more information, see [Manage Windows Defender Credential Guard](https://doc
 >Want to experience Microsoft Defender ATP? [Sign up for a free trial.](https://www.microsoft.com/en-us/WindowsForBusiness/windows-atp?ocid=docs-wdatp-sadashboard-belowfoldlink) 
 
 ## Related topics
-- [Overview of Secure score](overview-secure-score.md)
+- [Threat & Vulnerability Management dashboard overview](tvm-dashboard-insights.md)
+- [Exposure score](tvm-exposure-score.md)
+- [Configuration score](configuration-score.md)
+- [Security recommendations](tvm-security-recommendation.md)
+- [Remediation](tvm-remediation.md)
+- [Software inventory](tvm-software-inventory.md)
+- [Weaknesses](tvm-weaknesses.md)
+- [Scenarios](threat-and-vuln-mgt-scenarios.md)
+
+
 
 
 
