@@ -20,7 +20,7 @@ ms.date: 04/19/2017
 # Interactive logon: Don't display username at sign-in
 
 **Applies to**
--   Windows Server 2003, Windows Vista, Windows XP, Windows Server 2008, Windows 7, Windows 8.1, Windows Server 2008 R2, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 10
+-   Windows Server 2003, Windows Vista, Windows XP, Windows 10, Windows Server 2019
 
 Describes the best practices, location, values, and security considerations for the **Interactive logon: Don't display username at sign-in** security policy setting. 
 
